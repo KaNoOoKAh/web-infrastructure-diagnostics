@@ -1,0 +1,23 @@
+{
+  "database_path": "./Practice/real_monitor/real_monitor.db",
+  "location": {
+    "location_id": "default-location",
+    "label": "Default Location",
+    "timezone": "local",
+    "notes": "Manual profile"
+  },
+  "workload": {
+    "worker_count": 2,
+    "batch_size": 100,
+    "intensity": 100,
+    "payload_size_bytes": 1024
+  },
+  "runner": {
+    "sampling_interval_seconds": 30,
+    "duration_seconds": null
+  },
+  "analyzer": {
+    "min_baseline_samples": 3,
+    "anomaly_threshold_percent": 20.0
+  }
+}
