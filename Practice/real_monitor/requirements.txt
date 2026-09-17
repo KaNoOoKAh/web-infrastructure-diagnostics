@@ -1,0 +1,2 @@
+# Optional dependency for richer host metrics (CPU%, memory%, disk I/O, temperatures)
+psutil>=5.9
