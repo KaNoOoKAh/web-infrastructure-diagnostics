@@ -1,0 +1,29 @@
+{
+  "document_metadata": {
+    "file_name": "somatic_absence_baseline_v1.0.1.json",
+    "directory_path": "~/documents/research/",
+    "version": "1.0.1",
+    "last_updated": "2026-09-27T14:11:00Z",
+    "subject": "Pelvic-Somatic Ascending Vectors and Anterior Boundary Barriers"
+  },
+  "theoretical_framework": {
+    "discovered_operational_laws": [
+      {
+        "law_name": "Anterior-Posterior Asymmetry Block",
+        "description": "Deep pelvic autonomic contractions send upward energy that climbs freely through highly primed, low-resistance posterior muscle layers (lower trapezius/skin), but experiences an absolute, immediate physical block at specific anterior fascial boundaries (infraumbilical region)."
+      }
+    ]
+  },
+  "session_logs": [
+    {
+      "timestamp": "2026-09-27T14:11:00Z",
+      "posture": "Sitting (Static Rest following urination)",
+      "somatic_trigger": "Conscious contraction of involuntary pelvic/urinary muscle groups.",
+      "pathway_mapping": {
+        "origin": "Pelvic floor / internal deep pelvic cavity.",
+        "posterior_route": "Migrated from internal to rear, traveling vertically up the lower back. Sensation intensity multiplied significantly upon entering the lower trapezius muscle group and surface skin layers before tapering off.",
+        "anterior_route": "Immediately intercepted. 100% conscious awareness of an absolute boundary block localized precisely on the front side, directly below the infraumbilical (belly button) region."
+      }
+    }
+  ]
+}
