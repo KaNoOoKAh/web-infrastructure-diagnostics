@@ -66,8 +66,8 @@ If a mineral was in a state of shock or atmospheric pressure or an altered state
 
    Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains.
 
-    You can send pings to the domain even if certain request say it is invalid or cannot be found.
-
+    You can send pings to the domain even if certain request say it is invalid or cannot be found.-Does this mean that because of our language and directional pressure/dynamics. The letters can also be attracted? M A G N E T I C
+   
    Different types of data can be formed into your own 0. I say 0 because its value holds true and you can add as many of them as you want.
 
    If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing.
