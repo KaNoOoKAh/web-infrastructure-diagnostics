@@ -51,31 +51,3 @@ Functional programming avoids shared state and mutable data. Values are passed t
 // Functional transformation of input arrays without mutating original data
 const rawFrequencies = [110, 220, 440, 880];
 const transposedFrequencies = rawFrequencies.map(freq => freq * 1.5);
-
-4. Internet and Ping
- 
-  Internet and the power grid was never built with all the answers for environmental safety and health. The world and galaxies are changing every single day. 
-
-  Data is in every single piece of matter. Whether it be minerals, gases, vapor, solids, or liquids it doesnt matter. Lost data, forgotten data, forgotten domains, forgotten names forgotten text, all need to be brought in from the trash space of our electronics and technology.  
-
-  Ping values and other data values can be written in so many different forms. These forms are still recognized by the system as correctly written commands with the correct value amount. It does not matter if there is a certain cap. The system doesnt know what a hundred 0s means. The system doesnt know that those zeroes are forms of data. Some might not know that the data being used could have been in a state of shock, emotional distress, or under certain environmental factors that influenced different physiological changes or states at the time of death and bound for the dirt or mineral patch that we used to create all these things that we run e n e r g y through.  
-
-  #### ^ That is very important because the shape, form, identification, and true value will not present its self unless under or covered in specific energy. 
-
-If a mineral was in a state of shock or atmospheric pressure or an altered state from what "we" consider to be "normal". Which could never be possible since we dont even know the true structure of anything.
-
-5. More Ping
-
-   Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains.
-
-    You can send pings to the domain even if certain request say it is invalid or cannot be found.-Does this mean that because of our language and directional pressure/dynamics. The letters can also be attracted?
-   
-   Different types of data can be formed into your own 0. I say 0 because its value holds true and you can add as many of them as you want.
-
-   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing. Do not let history repeat its self. This is the reason why every single civilization has come up with the same ending. 
-   
-   6. Environmental Awareness
-  
-   Data either needs to be correctly dismantled or a 100% artificial source of energy and material needs to be created. Which really is not possible. We need to remember that because of our directional unawareness we are not able to see and feel things that might be actually be around us and in the environment/atmosphere. ( ENDEMIC E N D E M I C ) (left arrow)  (Law of Attraction)-Plays a HUGE PART in This
-
-   When a word or letter is in data form and floating. We still create and use the same letter, character, mineral, and energy. This is because of the way it was built/created and because of the fact that we have not learned true somatic awareness. Data still has current being run into it 24/7.
