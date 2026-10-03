@@ -51,3 +51,12 @@ Functional programming avoids shared state and mutable data. Values are passed t
 // Functional transformation of input arrays without mutating original data
 const rawFrequencies = [110, 220, 440, 880];
 const transposedFrequencies = rawFrequencies.map(freq => freq * 1.5);
+
+4. Internet and Ping
+ 
+  Internet and the power grid was never built with all the answers for environmental safety and health. The world and galaxies are changing every single day. 
+
+  Data is in every single piece of matter. Whether it be minerals, gases, vapor, solids, or liquids it doesnt matter. Lost data, forgotten data, forgotten domains, forgotten names forgotten text, all need to be brought in from the trash space of our electronics and technology.  
+
+  Ping values and other data values can be written in so many different forms. These forms are still recognized by the system as correctly written commands. 
+  
