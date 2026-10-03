@@ -61,3 +61,7 @@ const transposedFrequencies = rawFrequencies.map(freq => freq * 1.5);
   Ping values and other data values can be written in so many different forms. These forms are still recognized by the system as correctly written commands with the correct value amount. It does not matter if there is a certain cap. The system doesnt know what a hundred 0s means. The system doesnt know that those zeroes are forms of data. Some might not know that the data being used could have been in a state of shock, emotional distress, or under certain environmental factors that influenced different physiological changes or states at the time of death and bound for the dirt or mineral patch that we used to create all these things that we run e n e r g y through.  
 
 If a mineral was in a state of shock or atmospheric pressure or an altered state from what "we" consider to be "normal". Which could never be possible since we dont even know the true structure of anything.
+
+5. More Ping
+
+   Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains. You can send pings to the domain even if certain request say it is invalid or cannot be found. You can also send other types of data if you make your own 0. I say 0 because its value holds true and you can add as many of them as you want. 
