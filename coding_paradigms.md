@@ -2,8 +2,6 @@ Theory Document: Coding Paradigms
 
 Date: October 3, 2026
 
-The only way to get past this is to https://www.github.com/kanoookah and not just acknowledge it or become aware. DO IT
-
 Timestamp: 09:55:15 HST
 
 Part I: Principles of Code Syntax, Values, and Paradigms
