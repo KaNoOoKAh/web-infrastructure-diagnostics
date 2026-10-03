@@ -74,6 +74,6 @@ If a mineral was in a state of shock or atmospheric pressure or an altered state
    
    6. Environmental Awareness
   
-   Data either needs to be correctly dismantled or a 100% artificial source of energy and material needs to be created. Which really is not possible. We need to remember that because of our directional unawareness we are not able to see and feel things that might be actually be around us and in the environment/atmosphere. ( ENDEMIC E N D E M I C ) (left arrow)
+   Data either needs to be correctly dismantled or a 100% artificial source of energy and material needs to be created. Which really is not possible. We need to remember that because of our directional unawareness we are not able to see and feel things that might be actually be around us and in the environment/atmosphere. ( ENDEMIC E N D E M I C ) (left arrow)  (Law of Attraction)-Plays a HUGE PART in This
 
    When a word or letter is in data form and floating. We still create and use the same letter, character, mineral, and energy. This is because of the way it was built/created and because of the fact that we have not learned true somatic awareness. Data still has current being run into it 24/7.
