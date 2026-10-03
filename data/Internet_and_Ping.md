@@ -7,7 +7,7 @@ A ping operation typically sends an Internet Control Message Protocol (ICMP) req
 ping example.com 
 
 
-References
+#### References
 
 Ping (networking utility) - Wikipedia https://en.wikipedia.org/wiki/Ping_(networking_utility)
 
@@ -15,7 +15,7 @@ RFC 792: Internet Control Message Protocol (ICMP) https://datatracker.ietf.org/d
 
 ---
 
-Data Persistence, Digital Artifacts, and Symbolic Representation
+#### Data Persistence, Digital Artifacts, and Symbolic Representation
 
 Even when a website or domain is no longer active, traces of its existence may persist through archives, cached records, DNS histories, backups, or references stored by other systems. These remnants are often referred to as digital artifacts.
 
@@ -31,13 +31,13 @@ example.com
 
 Is able to remain recognizable as text even if no active server exists behind it. 
 
-References
+#### References
 
 Internet Archive https://archive.org
 
 Claude Shannon, "A Mathematical Theory of Communication" https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
 
-Environmental Awareness and Systems Thinking
+#### Environmental Awareness and Systems Thinking
 
 Environmental awareness examines how natural systems, technological systems, and human activities interact. Systems thinking encourages the study of relationships between components rather than viewing individual elements in isolation.
 
@@ -51,7 +51,7 @@ Human Geography
 
 Understanding these relationships helps reveal how technology depends upon physical resources, including minerals, energy production, manufacturing processes, and waste management.
 
-References
+#### References
 
 Donella Meadows, Thinking in Systems https://donellameadows.org
 
