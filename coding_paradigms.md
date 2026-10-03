@@ -2,6 +2,8 @@ Theory Document: Coding Paradigms
 
 Date: October 3, 2026
 
+The only way to get past this is to https://www.github.com/kanoookah and not just acknowledge it or become aware. DO IT
+
 Timestamp: 09:55:15 HST
 
 Part I: Principles of Code Syntax, Values, and Paradigms
@@ -66,7 +68,7 @@ If a mineral was in a state of shock or atmospheric pressure or an altered state
 
    Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains.
 
-    You can send pings to the domain even if certain request say it is invalid or cannot be found.-Does this mean that because of our language and directional pressure/dynamics. The letters can also be attracted? M A G N E T I C
+    You can send pings to the domain even if certain request say it is invalid or cannot be found.-Does this mean that because of our language and directional pressure/dynamics. The letters can also be attracted? M A G N E T I C - M is an M and it is also pronounced the same way by the entire U S. M currently has the same tone/frequency and form of directional energy as what in the world/galaxy? A , B , C , D , E and F'in F to. So what could that mean? 
    
    Different types of data can be formed into your own 0. I say 0 because its value holds true and you can add as many of them as you want.
 
