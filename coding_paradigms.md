@@ -64,6 +64,16 @@ If a mineral was in a state of shock or atmospheric pressure or an altered state
 
 5. More Ping
 
-   Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains. You can send pings to the domain even if certain request say it is invalid or cannot be found. You can also send other types of data if you make your own 0. I say 0 because its value holds true and you can add as many of them as you want.
+   Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains.
 
-   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing. 
+    You can send pings to the domain even if certain request say it is invalid or cannot be found.
+
+   Different types of data can be formed into your own 0. I say 0 because its value holds true and you can add as many of them as you want.
+
+   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing.
+
+   6. Environmental Awareness
+  
+   Data either needs to be correctly dismantled or a 100% artificial source of energy and material needs to be created. Which really is not possible. We need to remember that because of our directional unawareness we are not able to see and feel things that might be actually be around us and in the environment/atmosphere.
+
+   When a word or letter is in data form and floating. We still create and use the same letter, character, mineral, and energy. This is because of the way it was built/created and because of the fact that we have not learned true somatic awareness. Data still has current being run into it 24/7.
