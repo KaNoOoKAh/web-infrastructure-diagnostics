@@ -66,11 +66,12 @@ If a mineral was in a state of shock or atmospheric pressure or an altered state
 
    Even if a site or domain is no longer active. The structure and format (letters) that it is in still remains.
 
-    You can send pings to the domain even if certain request say it is invalid or cannot be found.-Does this mean that because of our language and directional pressure/dynamics. The letters can also be attracted? M A G N E T I C - M is an M and it is also pronounced the same way by the entire U S. M currently has the same tone/frequency and form of directional energy as what in the world/galaxy? A , B , C , D , E and F'in F to. So what could that mean? 
+    You can send pings to the domain even if certain request say it is invalid or cannot be found.-Does this mean that because of our language and directional pressure/dynamics. The letters can also be attracted?
    
    Different types of data can be formed into your own 0. I say 0 because its value holds true and you can add as many of them as you want.
 
-   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing.
+   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing. Do not let history repeat its self. This is the reason why every single civilization has come up with the same ending. 
+   
    6. Environmental Awareness
   
    Data either needs to be correctly dismantled or a 100% artificial source of energy and material needs to be created. Which really is not possible. We need to remember that because of our directional unawareness we are not able to see and feel things that might be actually be around us and in the environment/atmosphere. ( ENDEMIC E N D E M I C ) (left arrow)
