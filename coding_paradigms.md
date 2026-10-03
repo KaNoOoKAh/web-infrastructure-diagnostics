@@ -58,5 +58,5 @@ const transposedFrequencies = rawFrequencies.map(freq => freq * 1.5);
 
   Data is in every single piece of matter. Whether it be minerals, gases, vapor, solids, or liquids it doesnt matter. Lost data, forgotten data, forgotten domains, forgotten names forgotten text, all need to be brought in from the trash space of our electronics and technology.  
 
-  Ping values and other data values can be written in so many different forms. These forms are still recognized by the system as correctly written commands. 
+  Ping values and other data values can be written in so many different forms. These forms are still recognized by the system as correctly written commands with the correct value amount. It does not matter if there is a certain cap. The system doesnt know what a hundred 0s means. The system doesnt know that those zeroes are forms of data. 
   
