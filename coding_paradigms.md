@@ -70,8 +70,7 @@ If a mineral was in a state of shock or atmospheric pressure or an altered state
 
    Different types of data can be formed into your own 0. I say 0 because its value holds true and you can add as many of them as you want.
 
-   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing Cryptic Currency - C a R i P TiC Currency - Crypto Currency....
-
+   If you made your own numbers in certain programs you could trick the system into thinking it is just a certain number but in reality it is many other things. I am saying this because it needs to be known in order for people to understand what some people have been doing.
    6. Environmental Awareness
   
    Data either needs to be correctly dismantled or a 100% artificial source of energy and material needs to be created. Which really is not possible. We need to remember that because of our directional unawareness we are not able to see and feel things that might be actually be around us and in the environment/atmosphere. ( ENDEMIC E N D E M I C ) (left arrow)
