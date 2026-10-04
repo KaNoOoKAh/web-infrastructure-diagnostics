@@ -11,7 +11,9 @@ status: Active Research
 
 version: 1.0
 
-document_type: Interdisciplinary Research Framework
+document_type: Interdisciplinary Research Framework 
+
+related content: https://github.com/KaNoOoKAh/somatic-awareness-lab.md/blob/main/02-active-research/Vision/Ink_Chemistry.md
 
 classification:
   - Ink Chemistry
