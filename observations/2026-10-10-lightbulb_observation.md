@@ -47,3 +47,7 @@ Monitor household voltage stability during occurrences.
 #### Summary
 
 Two LED bulbs have demonstrated intermittent flickering and temporary shutdowns over the past week when configured to 6500K daylight white. The same bulb model remains stable when operated at 2700K or light blue, suggesting the anomaly may be linked to the specific color temperature mode rather than the electrical supply as a whole.
+
+#### Side Note 
+
+During 2023 I remember the LED bulbs had massive build ups of some type of matter in the plastic bulb part of the bulb. I remember getting freaked out because even after changing the bulbs. The bulbs continued to fill with some type of matter. 
