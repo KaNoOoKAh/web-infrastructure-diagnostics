@@ -1,0 +1,54 @@
+---
+record_id: "WID-OBS-2026-10-10-GITHUB-002"
+
+timestamp_local: "2026-10-10T20:02:00-10:00"
+
+location:
+  city: "Honolulu"
+  island: "Oahu"
+  state: "Hawaii"
+
+service:
+  provider: "GitHub"
+  application: "GitHub Copilot Chat"
+
+observation_sequence:
+
+  - step: 1
+    observation: >
+      Copilot displayed "Now creating the license files:"
+      and appeared inactive.
+
+  - step: 2
+    observation: >
+      User perceived service lag.
+
+  - step: 3
+    observation: >
+      After a delay, Copilot returned a new message:
+      "What's up? Ready to go or need something else?"
+
+result:
+  status: "Recovered"
+
+classification:
+  type: "Transient Service Latency"
+
+confidence:
+  interface_delay: 0.80
+  network_issue: 0.30
+  backend_issue: 0.45
+
+notes:
+  - "No application crash observed."
+  - "No browser failure observed."
+  - "No permanent service outage observed."
+  - "Conversation remained functional."
+
+research_value:
+  - "Useful example of perceived infrastructure degradation."
+  - "Demonstrates distinction between temporary latency and service failure."
+
+license: "CC-BY-4.0"
+
+---
