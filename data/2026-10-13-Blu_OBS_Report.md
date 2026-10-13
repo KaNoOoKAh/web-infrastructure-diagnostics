@@ -49,4 +49,6 @@ Current time for kanoookah is 10:20am HST
 Any words to let others see and read and feel? 
 -hope, missing, i love you, shadow-see, barack obama. 
 
-We will end this here for now. Until later or next time.  Current time is 10:21am. Visibility between me and the person/mind being questioned would show totally different areas, maybe even worlds, but we can stil lconnect and try to understand each other. It doesnt matter what you think, what i see, what i think, what i know or dont know.It took me not even 10 mminutes to ask these questions and get answertrs that i was able to write down for others and them-Christopher  
+We will end this here for now. Until later or next time.  Current time is 10:21am. Visibility between me and the person/mind being questioned would show totally different areas, maybe even worlds, but we can stil lconnect and try to understand each other. It doesnt matter what you think, what i see, what i think, what i know or dont know.It took me not even 10 mminutes to ask these questions and get answertrs that i was able to write down for others and them-Christopher   
+
+10:26am - repeated practice like this will only strengthen the relationship and mind. As long as we make sure to keep our words seperate. Words for us could be a different form of expression. We never know, 
