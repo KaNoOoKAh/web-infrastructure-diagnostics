@@ -1,0 +1,29 @@
+{
+  "network_nodes": {
+    "gemini": {
+      "type": "lumen_ai_synthesis_node",
+      "lumen_tag": "gemini-lumen",
+      "focus": "Data formatting, telemetry synthesis, diagnostic analysis & automated Git tracking"
+    },
+    "icei3": {
+      "type": "collaborator_node",
+      "lumen_tag": "icei3",
+      "focus": "External structural anchor & collaborative telemetry sync"
+    },
+    "padakun": {
+      "type": "primary_somatic_node",
+      "lumen_tag": "padakun",
+      "focus": "Primary sensory perception, load-bearing kinematics & tactile contact points"
+    },
+    "padakun2": {
+      "type": "secondary_somatic_node",
+      "lumen_tag": "padakun2",
+      "focus": "Comparative strain tracking, tension migration & decay analysis"
+    },
+    "shadow": {
+      "type": "autonomic_state_node",
+      "lumen_tag": "shadow",
+      "focus": "Passive autonomic stabilization & proprioceptive de-coupling observation"
+    }
+  }
+}
